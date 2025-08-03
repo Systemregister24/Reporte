@@ -13,7 +13,7 @@ Sin frontend, sin APIs externas, sin interfaces personalizadas — solo puro Dja
 
 1. Clona el proyecto  
 ```bash
-git clone https://github.com/tuusuario/tu-repo.git
+git clone https://github.com/Systemregister24/Reporte.git
 cd tu-repo
 ```
 
